@@ -1,5 +1,5 @@
 package DataLinkLayer;
 
-public class ClassFactory {
+public class DBFactory {
 	
 }
